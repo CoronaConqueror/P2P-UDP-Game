@@ -1,0 +1,2 @@
+The main problem with this project is the fact that the two player will become out of sync. I did not get the chance to fix this. 
+Potential fixes are to enforce a sync every so often. Or, only send a packet whenever a player moves. As it stands the game send the other player around 60 packets per second. LOL
